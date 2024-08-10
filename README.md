@@ -45,3 +45,8 @@ Flexibility: You can use different types of models as base models and a differen
  Classification performance is  measured using precision, recall, f-measure, and accuracy metrics
 
  ### Explainable Artificial Intelligence  (XAI)
+XAI refers to a set of methods and techniques in artificial intelligence (AI) that aim to make the decision-making processes of AI systems transparent, understandable, and interpretable by humans.
+
+Tools:
+1. LIME (Local Interpretable Model-Agnostic Explanations): Explains individual predictions by approximating the black-box model with a local, interpretable model.
+2. SHAP (SHapley Additive exPlanations): Provides a unified measure of feature importance based on cooperative game theory.
