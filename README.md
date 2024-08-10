@@ -11,5 +11,6 @@
  ### Stacking model
 
  ### Evaluation models
+ Classification performance is  measured using precision, recall, f-measure, and accuracy metrics
 
  ### Explainable Artificial Intelligence  (XAI)
